@@ -20,13 +20,11 @@ User-Friendly Interface: Simplifies interaction through an intuitive and accessi
 
 Frontend:
 
-React.js for building interactive user interfaces.
-
-Tailwind CSS for styling.
+Streamlit 
 
 Backend:
 
-Python with Flask or FastAPI for server-side logic.
+Python
 
 LangChain for orchestrating LLM workflows.
 
@@ -34,13 +32,4 @@ Hugging Face Transformers for implementing LLMs.
 
 Database:
 
-MongoDB for storing user queries and responses.
-
 Faiss for vector storage and similarity search of processed medical data.
-
-
-Run the backend server:
-
-python app.py
-
-Start the frontend:
