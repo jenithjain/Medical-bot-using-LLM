@@ -1,0 +1,21 @@
+# Core dependencies
+pypdf==3.17.1
+langchain==0.1.0
+torch==2.5.1
+accelerate==0.25.0
+bitsandbytes==0.41.1
+ctransformers==0.2.27
+sentence_transformers==2.2.2
+scikit-learn==1.4.0
+huggingface-hub==0.19.4
+
+# LangChain packages
+langchain-community==0.0.13
+langchain-core==0.1.9
+
+# UI dependencies
+streamlit==1.32.0
+
+# Additional utilities
+typing-extensions==4.8.0
+python-dotenv==1.0.0
